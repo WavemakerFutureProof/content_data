@@ -1,0 +1,387 @@
+[
+    {
+        "id": "web-development",
+        "name": "Web Development",
+        "headerColour": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
+        "description": "Welcome to your Introduction to Web Development!",
+        "image": "/images/headerImages/CodingBanner1.png",
+        "imageTab": "/images/headerImages/CodingBanner1.png",
+        "imageMob": "/images/headerImages/CodingBanner1.png",
+        "whatBannerText": "What exactly is Web Development?",
+        "whatBannerDesc": "Find out what web is and what we use it for!",
+        "what": [
+            {
+                "id": "intro-text",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "text": "Websites are an integral part of modern technology! they provide businesses with an online presence and provide as an easy place for people to find information!"
+            },
+            {
+                "id": "code-electricity",
+                "image": "/images/mainContentImages/codingImage2.png",
+                "text": "Most people know what a website is, but a lot don't understand how they work."
+            },
+            {
+                "id": "front-end-back-end-design",
+                "image": "/images/mainContentImages/codingImage3.png",
+                "text": "Websites are very complex, but they can broken into 3 parts. The front-end , the back-end and the design."
+            },
+            {
+                "id": "back-end",
+                "image": "/images/mainContentImages/codingImage4.png",
+                "text": "The back end or the server side is the part of a website you don't see. The back-end communicates with the front end to send and recieve information so it can be displayed!"
+            },
+            {
+                "id": "back-end-cont",
+                "image": "/images/mainContentImages/codingImage5.png",
+                "text": "The back end also works to keep our websites secure, by keeping our personal information safe and storing it in a secure location!"
+            },
+            {
+                "id": "front-end",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The front end us the part of the website you do see! The front end developer focuses on all sides of the site that the user will directly interact with."
+            },
+            {
+                "id": "front-end-cont",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "This includes text, images, navigation, buttons, colours, animations and much more!"
+            },
+            {
+                "id": "web-design",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The designer is the person who figure out how a website will look. Including how things are laid out, what colours will be used and everything inbetween!"
+            },
+            {
+                "id": "web-design-cont",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The designer will then hand their design over to the front end developer, who will use this to build the front end functionality for the site."
+            },
+            {
+                "id": "web-host",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "Once a website is fully developed, it is then ready to be hosted on the web!"
+            },
+            {
+                "id": "web-host-cont",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "To do this, a web server will run the sites code behind the scenes and make it so it can be accessed on the live web!"
+            },
+            {
+                "id": "web-host-cont2",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The site can be accessed by it's 'URL' which is its unique web address. An example is Facebook who use 'www.Facebook.com' for their URL. "
+            }
+        ],
+        "whyBannerText": "Why do we use web development?",
+        "whyBannerDesc": "Find out why we use web development",
+        "why": [
+            {
+                "id": "explained",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "As previously mentioned, web development is made of 3 parts, which all link together to provide a website with complete functionality."
+            },
+            {
+                "id": "explained-2",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "These parts are named the front-end, the back-end and the design."
+            },
+            {
+                "id": "back-end-explained",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "Back end development focuses on how the site works behind the scenes. The back end programmers responsibilities will likely include creating code to interact with a database, keeping the site secure and communicating with the front-end of the site."
+            },
+            {
+                "id": "front-end-explained",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "Front end development focus on building the interface for a website. The stuff that the user will see and use, like buttons, navigation and images! The front end developer will program the interface with the use of HTML/CSS/JavaScript so that a user can interact with it directly."
+            },
+            {
+                "id": "web-design-explained",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "A web designers main role is to create a suitable web design. Their jobs may include designing the site for the users experience and usability. Designers often use software such as PhotoShop and Illustrator to create detailed designs for a developer to use."
+            },
+            {
+                "id": "web-domain",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "Once all 3 parts are put together the website is then ready to go live! To do this, a domain name is required which can be obtained from a domain registrar. These give a website a unique online name which can be found in the form of its URL."
+            },
+            {
+                "id": "web-hosting",
+                "image": "/images/mainContentImages/robotics2.svg",
+                "text": "The final step is hosting the site! Web hosts exist all around the world and use a domain to connect the site to internet so it can be accessed across the world! "
+            }
+
+        ],
+        "howBannerText": "So how does this all work then? ",
+        "howBannerDesc": "Find out how web development works!",
+        "how": [
+            {
+                "id": "HTML",
+                "mainHeader": "HTML",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "Very High",
+                "text2": "Easy",
+                "text3": [
+                    {
+                        "text": "Define the structure of a website"
+                    },
+                    {
+                        "text": "Define the layout of a website"
+                    },
+                    {
+                        "text": "Ultimately create web pages"
+                    },
+                    {
+                        "text": "HTML5 games"
+                    }
+                ]
+            },
+            {
+                "id": "CSS",
+                "mainHeader": "CSS",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "Very High",
+                "text2": "Easy to Moderate",
+                "text3": [
+                    {
+                        "text": "front-end styling"
+                    },
+                    {
+                        "text": "Styling of a website"
+                    },
+                    {
+                        "text": "Make websites responsive across all devices"
+                    }
+                ]
+            },
+            {
+                "id": "JavaScript",
+                "mainHeader": "JavaScript",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "Very High",
+                "text2": "Easy to Difficult",
+                "text3": [
+                    {
+                        "text": "Front-end Development"
+                    },
+                    {
+                        "text": "Adding interactivity to websites"
+                    },
+                    {
+                        "text": "Game Development"
+                    },
+                    {
+                        "text": "Creating mobile and web apps"
+                    }
+                ]
+            },
+            {
+                "id": "PHP",
+                "mainHeader": "PHP",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "Very High",
+                "text2": "Moderate to Difficult",
+                "text3": [
+                    {
+                        "text": "Server-side development"
+                    },
+                    {
+                        "text": "Database programming"
+                    },
+                    {
+                        "text": "Dynamic webpages"
+                    }
+                ]
+            },
+            {
+                "id": "C#",
+                "mainHeader": "C#",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "Moderate",
+                "text2": "Moderate",
+                "text3": [
+                    {
+                        "text": "Server-side development"
+                    },
+                    {
+                        "text": "Dynamic webpages"
+                    },
+                    {
+                        "text": "Windows Applications"
+                    }
+                ]
+            },
+            {
+                "id": "SQL",
+                "mainHeader": "SQL",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "High",
+                "text2": "Moderate to Difficult",
+                "text3": [
+                    {
+                        "text": "Database Queries"
+                    },
+                    {
+                        "text": "Communicating with Databases"
+                    }
+                ]
+            },
+            {
+                "id": "Python",
+                "mainHeader": "Python",
+                "image": "/images/mainContentImages/codingImage1.png",
+                "headingText1": "Popularity: ",
+                "headingText2": "Ease of Use: ",
+                "headingText3": "Uses: ",
+                "text1": "Moderate",
+                "text2": "Moderate to Difficult",
+                "text3": [
+                    {
+                        "text": "Server side Programming"
+                    },
+                    {
+                        "text": "HTTP Requests"
+                    }
+                ]
+            }
+        ],
+        "navigation": [
+            {
+                "id": "coding",
+                "text": "Return to Coding",
+                "image": "/images/headerImages/codingBanner1.svg"
+            }
+        ],
+        "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
+        "quizId": "UT6AWAtNWf6HUpjGJjeS",
+        "resources": [
+            {
+                "title": "Resources",
+                "text": "Still hungry to learn more? We've provided you with a list of useful links to help you on you kick start your coding career. We have seperated our resources into 3 categories to help you find the right resources for you!",
+                "watch_and_learn": [
+                    {
+                        "link": "https://www.codecademy.com/",
+                        "text": "Codecademy",
+                        "desc": "A fun way to educate yourself in web development!",
+                        "type": "interactive"
+                    },
+                    {
+                        "link": "https://www.w3schools.com/",
+                        "text": "W3Schools",
+                        "desc": "A great platform for anything and everything web!",
+                        "type": "interactive"
+                    },
+                    {
+                        "link": "https://www.youtube.com/watch?v=hb7Q33ysCwI",
+                        "text": "Coding is not Difficult ",
+                        "desc": "An inspiration talk from Bill gates and others",
+                        "type": "video"
+                    },
+                    {
+                        "link": "https://css-tricks.com/",
+                        "text": "CSS Tricks",
+                        "desc": "Learn about animations, layouts, UI designs, transitions and much more!",
+                        "type": "interactive"
+                    },
+                    {
+                        "link": "https://codakid.com/kids-online-coding-courses/web-development-1/",
+                        "text": "CodaKid",
+                        "desc": "Aimed at young learners, CodaKid provides a fun gamified way of learning HTML/CSS.",
+                        "type": "interactive"
+                    },
+                    {
+                        "link": "https://www.youtube.com/watch?v=boah9hNHhi0",
+                        "text": "HTML coding for kids and caveman",
+                        "desc": "A great series of youtube tutorials for HTML development by SuperCampus JR.",
+                        "type": "video"
+                    }
+
+                ],
+                "useful_links": [
+                    {
+                        "link": "https://webdesign.tutsplus.com/tutorials/web-design-for-kids-welcome-to-tuts-town--cms-23680",
+                        "text": "Web Design for kids: Welcome to Tuts+ Town",
+                        "desc": "Tuts+ Town provide a great introducion to web design for kids.",
+                        "type": "Tutorial"
+                    },
+                    {
+                        "link": "https://www.lifewire.com/introduction-to-web-design-3470022",
+                        "text": "What is Web Design: An Introduction to the basics",
+                        "desc": "A short read that gives a great introduction to any beginner!",
+                        "type": "article"
+                    },
+                    {
+                        "link": "https://developer.mozilla.org/en-US/docs/Web/Guide/Introduction_to_Web_development",
+                        "text": "Introduction to Web Development",
+                        "desc": "A detailed introdcution to Web Development from Mozilla.",
+                        "type": "article"
+                    },
+                    {
+                        "link": "https://eloquentjavascript.net/",
+                        "text": "Eloquent JavaScript",
+                        "desc": "A greatly detailed book on the ins and outs of JavaScript",
+                        "type": "book"
+                    },
+                    {
+                        "link": "http://www.htmlandcssbook.com/",
+                        "text": "HTML & CSS: Design and Build Websites",
+                        "desc": "A great book, full with graphics and information on HTML & CSS",
+                        "type": "book"
+                    }
+                ],
+                "careers": [
+                    {
+                        "link": "https://www.wolvcoll.ac.uk/interest/web-development/",
+                        "text": "College",
+                        "desc": "Find out what oppurtunities are available to you at colleges at sixth forms"
+                    },
+                    {
+                        "link": "https://www.whatuni.com/degree-courses/search?subject=website-development",
+                        "text": "University",
+                        "desc": "Ready for the big step? Find out what university has to offer you!"
+                    },
+                    {
+                        "link": "https://css-tricks.com/job-titles-in-the-web-industry/",
+                        "text": "Industries",
+                        "desc": "You've made it so far! Now it's time to find your ideal job!"
+                    }
+                ]
+            }
+        ],
+        "previousNavigation": [
+            {
+                "text": "Artificial Intelligence",
+                "link": "/?page=web"
+            }
+        ],
+        "backNavigation": [
+            {
+                "text": "Coding",
+                "link": "https://wavemakerfutureproof.co.uk/key-areas/BE85aPQIdNe7uG4CselG"
+            }
+        ],
+        "nextNavigation": [
+            {
+                "text": "Game Development",
+                "link": "/?page=codingIntro"
+            }
+        ]
+    }
+]
