@@ -8,7 +8,7 @@
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
         "imageMob": "/images/headerImages/CodingBanner1.png",
-        "whatBannerText": "What exactly is Coding?",
+        "whatBannerText": "What exactly are apps",
         "whatBannerDesc": "Find out what coding is and what we use it for!",
         "what": [
             {
@@ -16,7 +16,7 @@
 <<<<<<< HEAD:essentialDigital/mobileApps.json
                 "image": "img/mobileapps/FutureProofTopicBadge.svg",
 =======
-                "image": "img/FutureProof-Topic Badges.svg",
+                "image": "img/FutureProofTopicBadge.svg",
 >>>>>>> f6a65396830f1ea1eff7862d62943838f9697c06:essentialDigital/mobileApps/mobileApps.json
                 "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
             },
