@@ -7,73 +7,61 @@
         "whatBannerText": "What exactly is E-safety?",
         "whatBannerDesc": "Find out what E-safety is and how it can help you browse the internet safely!",
 
-
-
-
-
-
-
-
-
-
-
-
-
         "what": [
             {
                 "id": "intro-text",
-                "image": "/images/mainContentImages/codingImage1.png",
-                "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
+                "image": "/images/e-safety/SVGs/what-1.svg",
+                "text": "When discussing internet safety, the threats posed can generally be broken down into 2 categories. These are information security and personal safety."
             },
             {
                 "id": "code-electricity",
-                "image": "/images/mainContentImages/codingImage2.png",
-                "text": "Nowadays, almost everything that is powered by electricity uses code."
+                "image": "/images/e-safety/SVGs/what-2.svg",
+                "text": "Information security is described as the personal information of a user that is kept online. This could be information such as their name, address, passwords and banking details."
             },
             {
                 "id": "code-items",
-                "image": "/images/mainContentImages/codingImage3.png",
-                "text": "Personal items like: Smart Phones Smart Watches Smart Speakers"
+                "image": "/images/e-safety/SVGs/what-3.svg",
+                "text": "This type of information is usually associated with users private details, resulting in issues for a user if these details are leaked."
             },
             {
                 "id": "code-home-appliances",
-                "image": "/images/mainContentImages/codingImage4.png",
-                "text": "Things around the home like: Microwaves Fridges Washing machines"
+                "image": "/images/e-safety/SVGs/what-4.svg",
+                "text": "Unauthorised access to these kinds of details could result in consequences such as identity theft, online theft and theft of property."
             },
             {
                 "id": "code-automotive",
-                "image": "/images/mainContentImages/codingImage5.png",
-                "text": "Even big things like: Cars Trains Planes ...and rockets!"
+                "image": "/images/e-safety/SVGs/what-5.svg",
+                "text": "Scams that are commonly associated with accessing a user's private details include phishing scams and internet scams. "
             },
             {
                 "id": "code-tv",
-                "image": "/images/mainContentImages/robotics2.svg",
-                "text": "When you watch your favourite box set on your TV streaming service,"
+                "image": "/images/e-safety/SVGs/what-1.svg",
+                "text": "These scams occur when someone attempts to deceive a user, to make the user trust them enough to give away personal information."
             },
             {
                 "id": "code-tweet",
-                "image": "/images/mainContentImages/robotics2.svg",
-                "text": "Send a tweet, email or message"
+                "image": "/images/e-safety/SVGs/what-2.svg",
+                "text": "Phishing scams often occur through email, but can occur anywhere on the internet. They involve scammers disguising themselves as a trustworthy source, in an attempt to gain access to the users personal details."
             },
             {
                 "id": "code-console",
-                "image": "/images/mainContentImages/robotics2.svg",
-                "text": "When you play on your latest games console."
+                "image": "/images/e-safety/SVGs/what-3.svg",
+                "text": "The websites used to deceive the user are often disguised to look very similar to the one they are mimicking, so that the user does not get suspicious of them."
             },
             {
                 "id": "code-microwave",
-                "image": "/images/mainContentImages/robotics2.svg",
-                "text": "Or even warm up your dinner in the microwave."
+                "image": "/images/e-safety/SVGs/what-4.svg",
+                "text": "Internet scams are slightly different and slightly less common than phishing but still extremely harmful. Internet scams aim to cheat a user out of their personal property through false promises and confidence tricks."
             },
             {
                 "id": "code-lines",
-                "image": "/images/mainContentImages/robotics2.svg",
-                "text": "It happens because of lines of code."
+                "image": "/images/e-safety/SVGs/what-5.svg",
+                "text": "This could occur when someone lies online in order to get something from another internet user. An example of this could be buying an item from a seller online, only to find out the seller lied to you about the price, quality, size, appearance, etc"
             },
             {
                 "id": "code-rely",
-                "image": "/images/mainContentImages/robotics2.svg",
-                "text": "They all rely on code to make them work."
+                "image": "/images/e-safety/SVGs/what-1.svg",
+                "text": "Another type of information security threat is Malware. Malware is a malicious software that is disguised as safe software  to acquire and use private information (such as passwords) without the users consent."
             } 
         ],
         "whyBannerText": "Why do we code?",
