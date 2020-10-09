@@ -4,7 +4,7 @@
         "name": "Mobile Apps for Creatives",
         "headerColour": "linear-gradient(90deg,rgb(208,0,81),rgb(246,61,95))",
         "headerColour2": "linear-gradient(  g,rgb(42,181,227),rgb(11,146,191))",
-        "description": "Welcome to your Introduction to Coding!",
+        "description": "Welcome to Mobile Apps!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
         "imageMob": "/images/headerImages/CodingBanner1.png",
@@ -13,7 +13,7 @@
         "what": [
             {
                 "id": "intro-text",
-                "image": "img/mobileapps/FutureProof-Topic Badges.svg",
+                "image": "img/mobileapps/FutureProofTopicBadge.svg",
                 "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
             },
             {
