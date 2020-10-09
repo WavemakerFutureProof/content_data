@@ -3,6 +3,7 @@
         "id": "coding-introduction",
         "name": "Introduction to Coding",
         "headerColour": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
+        "headerColour2": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
         "description": "Welcome to your Introduction to Coding!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
@@ -12,57 +13,57 @@
         "what": [
             {
                 "id": "intro-text",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
             },
             {
                 "id": "code-electricity",
-                "image": "/images/mainContentImages/codingImage2.png",
+                "image": "/images/intro-to-coding/introduction-to-coding//images/intro-to-coding/introduction-to-coding/codingImage2.png",
                 "text": "Nowadays, almost everything that is powered by electricity uses code."
             },
             {
                 "id": "code-items",
-                "image": "/images/mainContentImages/codingImage3.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage3.png",
                 "text": "Personal items like: Smart Phones Smart Watches Smart Speakers"
             },
             {
                 "id": "code-home-appliances",
-                "image": "/images/mainContentImages/codingImage4.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage4.png",
                 "text": "Things around the home like: Microwaves Fridges Washing machines"
             },
             {
                 "id": "code-automotive",
-                "image": "/images/mainContentImages/codingImage5.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage5.png",
                 "text": "Even big things like: Cars Trains Planes ...and rockets!"
             },
             {
                 "id": "code-tv",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "When you watch your favourite box set on your TV streaming service,"
             },
             {
                 "id": "code-tweet",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "Send a tweet, email or message"
             },
             {
                 "id": "code-console",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "When you play on your latest games console."
             },
             {
                 "id": "code-microwave",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "Or even warm up your dinner in the microwave."
             },
             {
                 "id": "code-lines",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "It happens because of lines of code."
             },
             {
                 "id": "code-rely",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "They all rely on code to make them work."
             } 
         ],
@@ -71,32 +72,32 @@
         "why": [
             {
                 "id": "code-precice",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding//images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "Code is a precise set of instructions explaining exactly what you want the computer to do at any given moment. "
             },
             {
                 "id": "code-react",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "Computers need to know exactly how to react to things, whether clicking a button or tapping the screen."
             },
             {
                 "id": "code-direction",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "It’s like giving directions to someone on how to get somewhere."
             },
             {
                 "id": "code-consider",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "You don’t only need to give the directions, you also have to give solutions for other elements that need to be considered."
             },
             {
                 "id": "code-example",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "For example, what if there is a traffic jam? Or what if your car breaks down?"
             },
             {
                 "id": "code-circumstance",
-                "image": "/images/mainContentImages/robotics2.svg",
+                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
                 "text": "You need to tell the computer what to do in these circumstances and how to behave."
             }
 
@@ -107,7 +108,7 @@
             {
                 "id": "java",
                 "mainHeader": "Java",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -131,7 +132,7 @@
             {
                 "id": "python",
                 "mainHeader": "Python",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -149,7 +150,7 @@
             {
                 "id": "c",
                 "mainHeader": "C / C# / C++",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -173,7 +174,7 @@
             {
                 "id": "javascript",
                 "mainHeader": "JavaScript",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -191,7 +192,7 @@
             {
                 "id": "visual-basic-net",
                 "mainHeader": "Visual Basic .Net",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -209,7 +210,7 @@
             {
                 "id": "sql",
                 "mainHeader": "SQL",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "//images/intro-to-coding/introduction-to-coding/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -224,7 +225,7 @@
             {
                 "id": "php",
                 "mainHeader": "PHP",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -239,7 +240,7 @@
             {
                 "id": "objective-c",
                 "mainHeader": "Objective C",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -257,7 +258,7 @@
             {
                 "id": "swift",
                 "mainHeader": "Swift",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -281,7 +282,7 @@
             {
                 "id": "ruby",
                 "mainHeader": "Ruby",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -299,7 +300,7 @@
             {
                 "id": "perl",
                 "mainHeader": "Perl",
-                "image": "/images/mainContentImages/codingImage1.png",
+                "image": "/images/intro-to-coding/introduction-to-coding/codingImage1.png",
                 "headingText1": "Popularity: ",
                 "headingText2": "Ease of Use: ",
                 "headingText3": "Uses: ",
@@ -319,7 +320,7 @@
             {
                 "id": "coding",
                 "text": "Return to Coding",
-                "image": "/images/headerImages/codingBanner1.svg"
+                "image": "/images/intro-to-coding/introduction-to-coding/codingBanner1.svg"
             }
         ],
         "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",

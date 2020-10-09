@@ -3,6 +3,7 @@
         "id": "e-safety",
         "name": "E Safety",
         "headerColour": "linear-gradient(90deg,rgb(208,0, 86),rgb(246, 61, 95))",
+        "headerColour2": "linear-gradient(90deg, rgb(190, 40, 96), rgb(236, 31, 65))",
         "description": "Welcome to your Introduction to E Safety!",
         "whatBannerText": "What exactly is E-safety?",
         "whatBannerDesc": "Find out what E-safety is and how it can help you browse the internet safely!",
@@ -320,7 +321,7 @@
                 "image": "/images/headerImages/codingBanner1.svg"
             }
         ],
-        "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
+        "quizColour": "linear-gradient(90deg,rgb(208,0, 86),rgb(246, 61, 95))",
         "quizId": "dgzjW8SoGNR8dBmvfX0h",
         "resources": [
             {
@@ -418,15 +419,21 @@
                 ]
             }
         ],
+        "prevNavigation": [
+            {
+                "text": "Introduction to essential digital skills",
+                "link": "/?page=introToEssentialDigitalSkills"
+            }
+        ],
         "nextNavigation": [
             {
-                "text": "Robotics",
-                "link": "/?page=codingIntro"
+                "text": "Mobile apps for creativity",
+                "link": "/?page=mobileAppsForCreativity"
             }
         ],
         "backNavigation": [
             {
-                "text": "Coding",
+                "text": "Essential-digital-skills",
                 "link": "https://wavemakerfutureproof.co.uk/key-areas/BE85aPQIdNe7uG4CselG"
             }
         ]
