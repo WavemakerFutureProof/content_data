@@ -8,13 +8,13 @@
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
         "imageMob": "/images/headerImages/CodingBanner1.png",
-        "whatBannerText": "What exactly are apps",
+        "whatBannerText": "What exactly are apps Lex?",
         "whatBannerDesc": "Find out what coding is and what we use it for!",
         "what": [
             {
                 "id": "intro-text",
 <<<<<<< HEAD:essentialDigital/mobileApps.json
-                "image": "img/mobileapps/FutureProofTopicBadge.svg",
+                "image": "images/mobileApps/FutureProofTopicBadge.svg",
 =======
                 "image": "img/FutureProofTopicBadge.svg",
 >>>>>>> f6a65396830f1ea1eff7862d62943838f9697c06:essentialDigital/mobileApps/mobileApps.json
