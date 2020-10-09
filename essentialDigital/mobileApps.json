@@ -1,9 +1,9 @@
 [
     {
-        "id": "coding-introduction",
-        "name": "Introduction to Coding",
-        "headerColour": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
-        "headerColour2": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
+        "id": "mobileAppsForCreatives",
+        "name": "Mobile Apps for Creatives",
+        "headerColour": "linear-gradient(90deg,rgb(208,0,81),rgb(246,61,95))",
+        "headerColour2": "linear-gradient(  g,rgb(42,181,227),rgb(11,146,191))",
         "description": "Welcome to your Introduction to Coding!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
