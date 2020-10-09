@@ -13,7 +13,11 @@
         "what": [
             {
                 "id": "intro-text",
+<<<<<<< HEAD:essentialDigital/mobileApps.json
                 "image": "img/mobileapps/FutureProofTopicBadge.svg",
+=======
+                "image": "img/FutureProof-Topic Badges.svg",
+>>>>>>> f6a65396830f1ea1eff7862d62943838f9697c06:essentialDigital/mobileApps/mobileApps.json
                 "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
             },
             {
