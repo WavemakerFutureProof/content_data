@@ -18,42 +18,42 @@
             },
             {
                 "id": "core-capalities",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-2.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-2.svg",
                 "text": "This is largely because alternative, easier methods such as CMS and web builders are relatively new and therefore not as commonly practiced at this time."
             },
             {
                 "id": "Third-Image",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-3.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-3.svg",
                 "text": "Other than that, programming is a method that is completely free to learn and is something that is taught as a fundamental skill to practice for both introductions to web and programming in general."
             },
             {
                 "id": "code-home-appliances",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-4.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-4.svg",
                 "text": "When broken down, web programming can be defined by 3 core languages. These are HTML, JavaScript and CSS."
             },
             {
                 "id": "code-automotive",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-5.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-5.svg",
                 "text": "These 3 are the staple of any web application and are featured in almost all web applications in some form or other."
             },
             {
                 "id": "code-tv",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-6.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-6.svg",
                 "text": "When combined together, they create the backbone for any website or application. Providing a web structure, design features and basic functionality."
             },
             {
                 "id": "code-tweet",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-7.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-7.svg",
                 "text": "It is important to understand how all 3 of these languages work , because they work together."
             },
             {
                 "id": "code-console",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-8.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-8.svg",
                 "text": "For example, you couldn’t create a webpage using just JavaScript & CSS with no HTML. Just like you couldn’t create a pretty webpage with just HTML & JavaScript. Or a functional webpage with just HTML & CSS."
             },
             {
                 "id": "code-microwave",
-                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what-9.svg",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web/web-programming/what-9.svg",
                 "text": "All 3 technologies are needed to get the maximum potential out of a web page in its most simple form."
             }
         ],
