@@ -4,7 +4,7 @@
         "name": "Mobile Apps for Creatives",
         "headerColour": "linear-gradient(90deg,rgb(208,0,81),rgb(246,61,95))",
         "headerColour2": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
-        "singleColour": "rgb(42,181,227)",
+        "singleColour": "rgb(246,61,95)",
         "description": "Welcome to Mobile Apps!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
