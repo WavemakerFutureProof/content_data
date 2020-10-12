@@ -4,6 +4,7 @@
         "name": "Web Programming",
         "headerColour": "linear-gradient(90deg,rgb(11, 146, 191),rgb(42,181,227))",
         "headerColour2": "linear-gradient(90deg,rgb(11, 146, 191),rgb(42,181,227))",
+        "singleColour": "rgb(11, 146, 191)",
         "description": "Welcome to web programming for beginners!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
@@ -315,6 +316,10 @@
         ],
         "quizColour": "linear-gradient(90deg,rgb(11,146,191),rgb(42,181,227))",
         "quizId": "dgzjW8SoGNR8dBmvfX0h",
+
+        "badgeIdForQuiz": "GByOG6FCiiyZqV3UIUj4", 
+
+
         "resources": [
             {
                 "title": "Resources",

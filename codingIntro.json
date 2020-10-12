@@ -4,6 +4,7 @@
         "name": "Introduction to Coding",
         "headerColour": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
         "headerColour2": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
+        "singleColour": "rgb(42,181,227)",
         "description": "Welcome to your Introduction to Coding!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",

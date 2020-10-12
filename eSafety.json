@@ -4,6 +4,7 @@
         "name": "E Safety",
         "headerColour": "linear-gradient(90deg,rgb(208,0, 86),rgb(246, 61, 95))",
         "headerColour2": "linear-gradient(90deg, rgb(190, 40, 96), rgb(236, 31, 65))",
+        "singleColour": "rgb(190, 40, 96)",
         "description": "Welcome to your Introduction to E-Safety!",
         "whatBannerText": "What exactly is E-safety?",
         "whatBannerDesc": "Find out what E-safety is and how it can help you browse the internet safely!",
