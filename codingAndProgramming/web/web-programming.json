@@ -1,71 +1,61 @@
 [
     {
-        "id": "mobileAppsForCreatives",
-        "name": "Mobile Apps for Creatives",
-        "headerColour": "linear-gradient(90deg,rgb(208,0,81),rgb(246,61,95))",
-        "headerColour2": "linear-gradient(90deg,rgb(42,181,227),rgb(11,146,191))",
-        "description": "Welcome to Mobile Apps!",
+        "id": "webProgramming",
+        "name": "Web Programming",
+        "headerColour": "linear-gradient(90deg,rgb(11, 146, 191),rgb(42,181,227))",
+        "headerColour2": "linear-gradient(90deg,rgb(11, 146, 191),rgb(42,181,227))",
+        "description": "Welcome to web programming for beginners!",
         "image": "/images/headerImages/CodingBanner1.png",
         "imageTab": "/images/headerImages/CodingBanner1.png",
         "imageMob": "/images/headerImages/CodingBanner1.png",
-        "whatBannerText": "What exactly are apps Lex?",
-        "whatBannerDesc": "Find out what coding is and what we use it for!",
+        "whatBannerText": "What exactly is web programming?",
+        "whatBannerDesc": "Find out what web programming is all about!",
         "what": [
             {
-                "id": "First-Image",
-                "image": "https://wavemakerfutureproof.github.io/content_data/essentialDigital/images/mobileApps/FutureProofTopicBadge.svg",
-                "text": "Coding is all around us! It’s the way we interact with technology, and the results are everywhere to see!"
+                "id": "core-languages",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "Programming a website is one of the most popular methods of developing a website in the world."
             },
             {
-                "id": "Second-Image",
-                "image": "https://wavemakerfutureproof.github.io/content_data/essentialDigital/images/mobileApps/FutureProofTopicBadge.svg",
-                "text": "Nowadays, almost everything that is powered by electricity uses code."
+                "id": "core-capalities",
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "This is largely because alternative, easier methods such as CMS and web builders are relatively new and therefore not as commonly practiced at this time."
             },
             {
                 "id": "Third-Image",
-                "image": "https://wavemakerfutureproof.github.io/content_data/essentialDigital/images/mobileApps/utureProofTopicBadge.svg",
-                "text": "Personal items like: Smart Phones Smart Watches Smart Speakers"
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "Other than that, programming is a method that is completely free to learn and is something that is taught as a fundamental skill to practice for both introductions to web and programming in general."
             },
             {
                 "id": "code-home-appliances",
-                "image": "/images/intro-to-coding/introduction-to-coding/codingImage4.png",
-                "text": "Things around the home like: Microwaves Fridges Washing machines"
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "When broken down, web programming can be defined by 3 core languages. These are HTML, JavaScript and CSS."
             },
             {
                 "id": "code-automotive",
-                "image": "/images/intro-to-coding/introduction-to-coding/codingImage5.png",
-                "text": "Even big things like: Cars Trains Planes ...and rockets!"
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "These 3 are the staple of any web application and are featured in almost all web applications in some form or other."
             },
             {
                 "id": "code-tv",
-                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
-                "text": "When you watch your favourite box set on your TV streaming service,"
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "When combined together, they create the backbone for any website or application. Providing a web structure, design features and basic functionality."
             },
             {
                 "id": "code-tweet",
-                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
-                "text": "Send a tweet, email or message"
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "It is important to understand how all 3 of these languages work , because they work together."
             },
             {
                 "id": "code-console",
-                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
-                "text": "When you play on your latest games console."
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "For example, you couldn’t create a webpage using just JavaScript & CSS with no HTML. Just like you couldn’t create a pretty webpage with just HTML & JavaScript. Or a functional webpage with just HTML & CSS."
             },
             {
                 "id": "code-microwave",
-                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
-                "text": "Or even warm up your dinner in the microwave."
-            },
-            {
-                "id": "code-lines",
-                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
-                "text": "It happens because of lines of code."
-            },
-            {
-                "id": "code-rely",
-                "image": "/images/intro-to-coding/introduction-to-coding/robotics2.svg",
-                "text": "They all rely on code to make them work."
-            } 
+                "image": "https://wavemakerfutureproof.github.io/content_data/codingAndProgramming/images/web-programming/what1.svg",
+                "text": "All 3 technologies are needed to get the maximum potential out of a web page in its most simple form."
+            }
         ],
         "whyBannerText": "Why do we code?",
         "whyBannerDesc": "Find out why us humans are so fond of programming and coding!",
